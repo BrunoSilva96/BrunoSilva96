@@ -1,8 +1,8 @@
 ## Opa! Eu sou o Bruno Silva
 
 - 🔭 Hoje busco vaga na área de back-end
-- 🌱 Estudando Ruby on Rails
-- Estudando JS na CubosAcademy
+- 🌱 Estudando PHP/Laravel
+- Trabalhando com PHP na Estudiedu
 
 <!--<div align="center">
   <a href="https://github.com/BrunoSilva96">
