@@ -1,8 +1,8 @@
 ## Opa! Eu sou o Bruno Silva
 
-- 🔭 Hoje busco vaga na área de back-end
-- 🌱 Estudando PHP/Laravel
-- Trabalhando com PHP na Estudiedu
+- Desenvolvedor Backend na Faculdade Santa Casa da Bahia
+- Trabalhando com Node.js
+- Freelancer com PHP/Laravel
 
 <!--<div align="center">
   <a href="https://github.com/BrunoSilva96">
