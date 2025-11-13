@@ -2,7 +2,7 @@
 
 - Desenvolvedor Backend na Faculdade Santa Casa da Bahia
 - Trabalhando com Node.js
-- Estudando Nest.js
+
 
 <div align="center">
   <a href="https://github.com/BrunoSilva96">
